@@ -12,7 +12,7 @@ You can find more about me and my experience from the following:
 
 Here are the larger projects I've worked on as part of a team:
 
-### Trusetics -- By UCLA Trustworthy AI Lab
+### Trusetics, by the UCLA Trustworthy AI Lab
 **[Demo currently unavailable due to proprietary reasons]**
 Description
 - Frontier technology for synthetic data generation, powered by UCLA's cutting-edge research in GANs and Transformers
@@ -20,7 +20,7 @@ Description
 Technologies used
 - Python, Matlab, PyTorch, Scikit-learn
 
-### Poppin -- The Party Platform
+### Poppin - The Party Platform
 **[Go to Website](https://joinpoppin.com/)**
 Description
 - The #1 platform for college parties)! Totaling over 10k users, 600 events, and $100k+ transactions
@@ -28,7 +28,7 @@ Description
 Technologies used
 - React, TypeScript, Go
 
-### On My Own -- An ACM Studio Game
+### On My Own - An ACM Studio Game
 **[Play Now](https://kmbusybee.itch.io/on-my-own)**
 Description
 - Embark on a serene journey into the deep space and piece together a story that heals your soul
@@ -40,15 +40,6 @@ Technologies used
 
 These are smaller projects I've done for fun, mostly on my own:
 
-### Hobby Project 1
-**[Project Name](https://link-to-hobby-project-1)**
-- Description: Briefly describe what the project is about and what it does.
-- Technologies used: List the main technologies used in this project.
-
-### Hobby Project 2
-**[Project Name](https://link-to-hobby-project-2)**
-- Description: Briefly describe what the project is about and what it does.
-- Technologies used: List the main technologies used in this project.
 
 ---
 
