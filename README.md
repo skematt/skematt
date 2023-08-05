@@ -26,7 +26,7 @@ Technologies used
 **[Go to Website](https://joinpoppin.com/)**
 
 Description
-- The #1 platform for college parties)! Totaling over 10k users, 600 events, and $100k+ transactions
+- The #1 platform for college parties! Totaling over 10k users, 600 events, and $100k+ transactions
 - Attendees: Secure your ticket now! Hosts: Boost your profits with our platform!
 
 Technologies used
