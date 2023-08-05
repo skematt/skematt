@@ -14,6 +14,7 @@ Here are the larger projects I've worked on as part of a team:
 
 ### Trusetics, by the UCLA Trustworthy AI Lab
 **[View Demo](https://github.com/skematt/skematt/edit/main/README.md) (Demo partially closed due to proprietary reasons)**
+
 Description
 - Frontier technology for synthetic data generation, powered by UCLA's cutting-edge research in GANs and Transformers
 - Groundbreaking synthetic data evaluation system backed by robust research and innovative experimentation
@@ -22,6 +23,7 @@ Technologies used
 
 ### Poppin - The Party Platform
 **[Go to Website](https://joinpoppin.com/)**
+
 Description
 - The #1 platform for college parties)! Totaling over 10k users, 600 events, and $100k+ transactions
 - Attendees: Secure your ticket now! Hosts: Boost your profits with our platform!
@@ -30,6 +32,7 @@ Technologies used
 
 ### On My Own - An ACM Studio Game
 **[Play Now](https://kmbusybee.itch.io/on-my-own)**
+
 Description
 - Embark on a serene journey into the deep space and piece together a story that heals your soul
 - OMO, a robot who had always lived  in solitude, found his life changed forever by a crashed spaceship carrying only a child survivor
