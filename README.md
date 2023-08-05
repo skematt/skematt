@@ -18,6 +18,7 @@ Here are the larger projects I've worked on as part of a team:
 Description
 - Frontier technology for synthetic data generation, powered by UCLA's cutting-edge research in GANs and Transformers
 - Groundbreaking synthetic data evaluation system backed by robust research and innovative experimentation
+
 Technologies used
 - Python, Matlab, PyTorch, Scikit-learn
 
@@ -27,6 +28,7 @@ Technologies used
 Description
 - The #1 platform for college parties)! Totaling over 10k users, 600 events, and $100k+ transactions
 - Attendees: Secure your ticket now! Hosts: Boost your profits with our platform!
+
 Technologies used
 - React, TypeScript, Go
 
@@ -36,6 +38,7 @@ Technologies used
 Description
 - Embark on a serene journey into the deep space and piece together a story that heals your soul
 - OMO, a robot who had always lived  in solitude, found his life changed forever by a crashed spaceship carrying only a child survivor
+
 Technologies used
 - Unity, C#
 
