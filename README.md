@@ -15,32 +15,26 @@ Here are the larger projects I've worked on as part of a team:
 ### Trusetics, by the UCLA Trustworthy AI Lab
 **[View Demo](https://github.com/skematt/skematt/edit/main/README.md) (Demo partially closed due to proprietary reasons)**
 
-Description
 - Frontier technology for synthetic data generation, powered by UCLA's cutting-edge research in GANs and Transformers
 - Groundbreaking synthetic data evaluation system backed by robust research and innovative experimentation
 
-Technologies used
-- Python, Matlab, PyTorch, Scikit-learn
+*Technologies used: Python, Matlab, PyTorch, Scikit-learn*
 
 ### Poppin - The Party Platform
 **[Go to Website](https://joinpoppin.com/)**
 
-Description
 - The #1 platform for college parties! Totaling over 10k users, 600 events, and $100k+ transactions
 - Attendees: Secure your ticket now! Hosts: Boost your profits with our platform!
 
-Technologies used
-- React, TypeScript, Go
+*Technologies used: React, TypeScript, Go*
 
 ### On My Own - An ACM Studio Game
 **[Play Now](https://kmbusybee.itch.io/on-my-own)**
 
-Description
 - Embark on a serene journey into the deep space and piece together a story that heals your soul
 - OMO, a robot who had always lived  in solitude, found his life changed forever by a crashed spaceship carrying only a child survivor
 
-Technologies used
-- Unity, C#
+*Technologies used: Unity, C#*
 
 ## The More Casual Hobby Projects
 
@@ -49,12 +43,10 @@ These are smaller projects I've done for fun, mostly on my own:
 ### OkCupid Dating Profile Analysis
 **[View on Portfolio](https://www.yangmatthew.com/okcupid-analysis)**
 
-Description
 - A thorough analysis of over 20k dating profiles on OkCupid
 - Deployed data instruments like pre-processing, visualization,and machine learning
 
-Technologies used
-- Python, numpy, scipy, matplotlib, scikit-learn
+*Technologies used: Python, numpy, scipy, matplotlib, scikit-learn*
 
 
 ---
