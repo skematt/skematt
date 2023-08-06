@@ -8,7 +8,7 @@ You can find more about me and my experience from the following:
 - 🎨 Check out my **[Portfolio](https://www.yangmatthew.com/)** to see my projects and filter by particular skillsets.
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/matthew-yang-91291a168/)** to network or chat.
 
-## The More Ambitious Enterprises 
+## ⛳️ The More Ambitious Enterprises 
 
 Here are the larger projects I've worked on as part of a team:
 
@@ -36,7 +36,7 @@ Here are the larger projects I've worked on as part of a team:
 
 *Technologies used: Unity, C#*
 
-## The More Casual Hobby Projects
+## 🎯 The More Casual Hobby Projects
 
 These are smaller projects I've done for fun, mostly on my own:
 
