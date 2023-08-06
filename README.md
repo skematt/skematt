@@ -8,6 +8,8 @@ You can find more about me and my experience from the following:
 - 🎨 Check out my **[Portfolio](https://www.yangmatthew.com/)** to see my projects and filter by particular skillsets.
 - 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/matthew-yang-91291a168/)** to network or chat.
 
+<br>
+  
 ## ⛳️ The More Ambitious Enterprises 
 
 Here are the larger projects I've worked on as part of a team:
@@ -35,6 +37,8 @@ Here are the larger projects I've worked on as part of a team:
 - OMO, a robot who had always lived  in solitude, found his life changed forever by a crashed spaceship carrying only a child survivor
 
 *Technologies used: Unity, C#*
+
+<br>
 
 ## 🎯 The More Casual Hobby Projects
 
