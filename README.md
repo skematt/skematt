@@ -46,6 +46,16 @@ Technologies used
 
 These are smaller projects I've done for fun, mostly on my own:
 
+### OkCupid Dating Profile Analysis
+**[View on Portfolio](https://www.yangmatthew.com/okcupid-analysis)**
+
+Description
+- A thorough analysis of over 20k dating profiles on OkCupid
+- Deployed data instruments like pre-processing, visualization,and machine learning
+
+Technologies used
+- Python, numpy, scipy, matplotlib, scikit-learn
+
 
 ---
 
