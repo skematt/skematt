@@ -10,7 +10,7 @@ You can find more about me and my experience from the following:
 
 <br>
   
-## ⛳️ The More Ambitious Enterprises 
+## 🎯 The More Ambitious Enterprises 
 
 Here are the larger projects I've worked on as part of a team:
 
@@ -40,7 +40,7 @@ Here are the larger projects I've worked on as part of a team:
 
 <br>
 
-## 🎯 The More Casual Hobby Projects
+## ⛳️ The More Casual Hobby Projects
 
 These are smaller projects I've done for fun, mostly on my own:
 
