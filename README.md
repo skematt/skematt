@@ -31,7 +31,7 @@ Here are the larger projects I've worked on as part of a team:
 *Technologies used: React, TypeScript, Go*
 
 ### Player's Bounty
-**[Go to Website] (https://playersbounty.com/)**
+**[Go to Website](https://playersbounty.com/)**
 
 - Platform for gamers to post cash bounties for each other! Endorsed by biggest Minecraft Speedrun Discord Community
 - Post your own bounty or earn some money by completing an existing bounty
