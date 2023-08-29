@@ -30,6 +30,22 @@ Here are the larger projects I've worked on as part of a team:
 
 *Technologies used: React, TypeScript, Go*
 
+### Player's Bounty
+**[Go to Website] (https://playersbounty.com/)**
+
+- Platform for gamers to post cash bounties for each other! Endorsed by biggest Minecraft Speedrun Discord Community
+- Post your own bounty or earn some money by completing an existing bounty
+
+*Technologies used: Vue, Next.js, TypeScript, Express, Node.js, MongoDB, Python*
+
+
+
+<br>
+
+## ⛳️ The More Casual Hobby Projects
+
+These can bring a smile to your face (hopefully)
+
 ### On My Own - An ACM Studio Game
 **[Play Now](https://kmbusybee.itch.io/on-my-own)**
 
@@ -37,12 +53,6 @@ Here are the larger projects I've worked on as part of a team:
 - OMO, a robot who had always lived  in solitude, found his life changed forever by a crashed spaceship carrying only a child survivor
 
 *Technologies used: Unity, C#*
-
-<br>
-
-## ⛳️ The More Casual Hobby Projects
-
-These are smaller projects I've done for fun, mostly on my own:
 
 ### OkCupid Dating Profile Analysis
 **[View on Portfolio](https://www.yangmatthew.com/okcupid-analysis)**
