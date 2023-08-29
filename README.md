@@ -14,8 +14,8 @@ You can find more about me and my experience from the following:
 
 Here are the larger projects I've worked on as part of a team:
 
-### Trusetics, by the UCLA Trustworthy AI Lab
-**[View Demo](https://www.trusetic.com/) (Demo partially closed due to proprietary reasons)**
+### Trusetic, by the UCLA Trustworthy AI Lab
+**[View Demo](https://www.trusetic.com/)**
 
 - Frontier technology for synthetic data generation, powered by UCLA's cutting-edge research in GANs and Transformers
 - Groundbreaking synthetic data evaluation system backed by robust research and innovative experimentation
